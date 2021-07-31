@@ -1,0 +1,11 @@
+:root{
+    --primaryColor: #212A40;
+    --secondaryColor: #C6D278;
+    background: var(--primaryColor);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
